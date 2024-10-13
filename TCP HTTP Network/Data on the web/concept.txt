@@ -1,0 +1,2 @@
+We can send datas from one program to another program accross a network, these program can be same or can't be same.We can do it using two
+formatting concepts XML or JSON.
